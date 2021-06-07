@@ -11,6 +11,7 @@ Ici nous pouvons séparer dans 3 grosses catégories :
 -	Datacenter (DC) proxies
 -	ISP
 -	Residentials
+
 Un DC est un proxy avec comme base une IPV4 fournis par une entreprise particulière host dans un datacenter (d’où le nom).
 Un ISP est un proxy avec comme base une ipv4 founis par un télécom tel que Orange, SFR, etc… host dans un datacenter. ISP venant de l’anglais ISP provider = télécom.
 Un Resi (Residential) est un proxy avec comme base une ipv4 fournis par un télécom et host chez un particulier.
